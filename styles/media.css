@@ -1,0 +1,55 @@
+@media screen and (max-width: 760px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  aside {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  form {
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 38px;
+  }
+
+  img {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  aside {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  form {
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  img {
+    display: none;
+  }
+}
